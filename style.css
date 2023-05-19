@@ -1,0 +1,54 @@
+.body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: gray;
+  margin: 5px;
+  margin-top: 0;
+}
+
+.header {
+  background-color: white;
+  text-align: center;
+  height: 100px;
+  width: auto;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+
+.menu-ul{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-item {
+  color: #fff;
+  font-size: 15px;
+  display: inline-block;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.box {
+  margin-top: 50px;
+  height: 25%;
+  width: 75%;
+  padding: 10px;
+}
+.img {
+  height: 100px;
+  width: 600px;
+  background-color:gray;
+}
+
+.font{
+  padding: 10px;
+}
+
+.item_font {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
